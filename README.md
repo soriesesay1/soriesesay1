@@ -1,4 +1,4 @@
-<h1>Hi, my name is Soire! Passionate Cybersecurity Student</h1>
+<h1>Hi, my name is Sorie! Passionate Cybersecurity Student</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
